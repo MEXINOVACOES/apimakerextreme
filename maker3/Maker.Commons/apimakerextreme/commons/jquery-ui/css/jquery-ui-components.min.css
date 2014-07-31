@@ -1,0 +1,49 @@
+.mexTabs li .ui-icon-close { 
+  float: left; margin: 0.4em 0.2em 0 0; cursor: pointer; 
+}
+
+.ui-accordion .ui-accordion-content {
+  padding: 0px;
+  margin: 0px;
+}
+
+.ui-button-text-only .ui-button-text {
+  padding: 0px;
+}
+
+.ui-button .ui-button-text {
+  padding: 0px;
+}
+
+.mexButtonImage {
+  vertical-align: middle;
+}
+
+.mexButtonIcon {
+  margin-right: 5px;
+}
+
+.mexDataPicker .ui-datepicker-trigger {
+  float: right;
+  padding-top: 2px;
+}
+
+.mexDataPicker input {
+  float: left;
+}
+
+.ui-dialog .ui-dialog-buttonpane button {
+  padding : 5px;
+}
+
+.ui-jqgrid .ui-jqgrid-htable th div { 
+  font-size: 11px;
+}
+
+.mexGridButton {
+  padding: 2px 5px;
+}
+
+.mexGridImageLink {
+  cursor: pointer;
+}

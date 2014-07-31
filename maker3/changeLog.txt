@@ -1,0 +1,24 @@
+08/03/2014 -------------------------------------------------------------------------
+Correções:
+- Implemetação para o Maker 3
+
+08/07/2013 -------------------------------------------------------------------------
+
+Novas implementações:
+
+- Novas funções de Alerta
+- Criação de um parâmetro de barra de rolagem para o painel
+- Adição de lista de mês e ano no componente data
+- Adição da função Util - Obterinformações do navegador MEX
+- Adição da função Data - Criar data Fixa MEx e Data - Obter valor selecionado MEx
+- Adição das funções de Slide
+
+Correções:
+
+- Correção do CSS da grid com imagem para o IE
+- Correção do compoenente data que só abria para baixo no FF
+- Correção do icone da data apois ocultar o componete
+- Correção no tamanho da aba para o IE
+- Correção da função Util - Executar fluxo no formulário MEx que não retornava
+- Correção na nomeclatura do mês no componente data
+
