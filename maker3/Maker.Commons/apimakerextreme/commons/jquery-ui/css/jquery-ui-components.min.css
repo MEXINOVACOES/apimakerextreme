@@ -47,3 +47,6 @@
 .mexGridImageLink {
   cursor: pointer;
 }
+.portlet-content{
+  height: 100%;
+}
